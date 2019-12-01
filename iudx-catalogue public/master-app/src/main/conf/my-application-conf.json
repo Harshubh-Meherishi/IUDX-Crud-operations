@@ -1,0 +1,6 @@
+// 20190520162538
+// https://raw.githubusercontent.com/cescoffier/my-vertx-first-app/post-2/src/main/conf/my-application-conf.json
+
+{
+  "http.port": 8082
+}
